@@ -1,16 +1,18 @@
 # riderapp
 
-A new Flutter project.
+## App Details
+- This is a Assignment App, the Screenshots and the demo of the the Assignment given in the below
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+###  Home Screen
+<img width="227" height="498" alt="Home Screen" src="https://github.com/user-attachments/assets/5746549c-1994-446b-ac0f-c103eee65b1e" />
 
-A few resources to get you started if this is your first Flutter project:
+###  RideShare Screen
+<img width="227" height="498" alt="RideShare Screen" src="image" src="https://github.com/user-attachments/assets/7a68b18b-4f6c-4b7b-a7ed-0820f2ac4502" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🎥 Demo Video
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👉 [Watch Demo](https://drive.google.com/file/d/1Vu0VlqKRkSJCGPgjrk8EFifNplCPB14V/view?usp=sharing)
+
+### Thank you for watching!
